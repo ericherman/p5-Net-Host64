@@ -1,0 +1,6 @@
+DESCRIPTION
+    Net::Host64 - convert 64bit numbers between network byte order
+    and host byte order
+
+VERSION
+    Version 0.001
